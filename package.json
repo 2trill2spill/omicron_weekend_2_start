@@ -10,7 +10,7 @@
   "author": "Omicron Cohort",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^3.3.6",
+    "bootstrap": "^4.0.0",
     "express": "^4.13.4",
     "jquery": "^3.1.0"
   }
